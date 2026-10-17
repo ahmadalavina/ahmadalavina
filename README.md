@@ -27,5 +27,5 @@ Backend performance, PostgreSQL optimization, and building practical, measurable
 
 ### Connect
 
-- [LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
+- [LinkedIn](https://www.linkedin.com/in/ahmad-alavi-16948a1b9/)
 - [GitHub](https://github.com/ahmadalavina)
